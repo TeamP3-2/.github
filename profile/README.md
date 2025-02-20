@@ -1,5 +1,5 @@
 
-# Palestine Launchpad Hackathon Team: [Your Team Name]
+# Palestine Launchpad Hackathon Team: [Team P3-2]
 
 Welcome to the **[Your Team Name]** repository! We are a passionate group of individuals competing in the **Palestine Launchpad Hackathon**—an exclusive AI, Data Science, and Web Development challenge. Our team is here to build innovative solutions, collaborate effectively, and make an impact by solving real-world problems. This repository will document our progress, the work we've done, and the exciting solution we're developing for the **Personalized Learning Path Recommender** problem statement.
 
