@@ -8,7 +8,7 @@ Welcome to the **[Your Team Name]** repository! We are a passionate group of ind
 -   **[Member 1 Name]** - Role (e.g., AI Engineer, Data Scientist, Web Developer)
 -   **[Member 2 Name]** - Role (e.g., Frontend Developer, Data Scientist)
 -   **[Member 3 Name]** - Role (e.g., Backend Developer, Designer)
--   **[Member 4 Name]** - Role (e.g., Project Manager, QA)
+-   **[Alaa' Nairat]** - Team Mentor
 
 ## Project Overview
 
@@ -31,10 +31,10 @@ We’re using the following tools and technologies to build our solution:
 
 -   **Frontend**: React.js, HTML5, CSS3, JavaScript
 -   **Backend**: Python (Flask/Django), Node.js
--   **Database**: PostgreSQL, MongoDB
+-   **Bussniess Intellegence**: Power BI
 -   **AI/ML**: Scikit-learn, TensorFlow, Keras
 -   **Version Control**: Git, GitHub
--   **Deployment**: Heroku, Docker
+-   **Deployment**: Github Pages
 
 ## Roadmap
 
