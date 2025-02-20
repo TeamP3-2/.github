@@ -1,14 +1,17 @@
 
-# Palestine Launchpad Hackathon Team: [Team P3-2]
+# Palestine Launchpad Hackathon Team: [Team P3-2] My Path
 
-Welcome to the **[Your Team Name]** repository! We are a passionate group of individuals competing in the **Palestine Launchpad Hackathon**—an exclusive AI, Data Science, and Web Development challenge. Our team is here to build innovative solutions, collaborate effectively, and make an impact by solving real-world problems. This repository will document our progress, the work we've done, and the exciting solution we're developing for the **Personalized Learning Path Recommender** problem statement.
+Welcome to the **My Path** repository! We are a passionate group of individuals competing in the **Palestine Launchpad Hackathon**—an exclusive AI, Data Science, and Web Development challenge. Our team is here to build innovative solutions, collaborate effectively, and make an impact by solving real-world problems. This repository will document our progress, the work we've done, and the exciting solution we're developing for the **Personalized Learning Path Recommender** problem statement.
 
 ## Team Members
 
--   **[Member 1 Name]** - Role (e.g., AI Engineer, Data Scientist, Web Developer)
--   **[Member 2 Name]** - Role (e.g., Frontend Developer, Data Scientist)
--   **[Member 3 Name]** - Role (e.g., Backend Developer, Designer)
--   **[Alaa' Nairat]** - Team Mentor
+-   **Zahia Elabour** - AI Engineer
+-   **Mohammad Dawabsheh** - Frontend Developer
+-   **Haneen Habash** - Web Developer
+-   **Ahmad Alhajji** - AI Engineer
+-   **Jehad Adhame** - AI Engineer
+-   **Alaa' Nairat** - Team Mentor
+-   **Sondos Aabed** - Co-coach
 
 ## Project Overview
 
